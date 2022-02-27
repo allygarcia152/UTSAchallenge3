@@ -10,9 +10,9 @@ Employees of X Company has access to sensitive data, and needs to randomly gener
 ## Usage 
 Users for this generator can click the "generate password" button that will trigger a pop up window that first asks the user how long they want their password to be. If the password is not a number at all or not a number between 8 and 128 the window will prompt the user to enter acceptabple criteria. It will then ask for other password criteria. If the user enters cancel for all criteria, a pop up window will tell the user to choose at least one password criteria and the user will have to generate the password all over again by clicking the generate password button. 
 
-![gif of Allyson's online profile](./assets/images/AllyG-Portfolio.gif)
+![gif of the password generator working while the user gives it criteria](./assets/images/password-generator.gif)
 
-link: [AllyG - Profile](https://allygarcia152.github.io/UTSAchallenge2/)
+link: [Password Generator](https://allygarcia152.github.io/UTSAchallenge3/)
 
 ## Updates
 The generate password website came styled fully but the "generate password" button would not generate a random password. The JS file has been updated to take in user criteria for a password and give them one in the text box above the button. 
